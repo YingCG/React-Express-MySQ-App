@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.reviewform{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.reviewform input{
+  width: 30%;
+  height: 60px;
+  margin: 10px;
+}
+
